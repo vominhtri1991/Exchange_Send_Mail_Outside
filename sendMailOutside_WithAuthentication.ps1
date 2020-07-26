@@ -6,7 +6,7 @@
 
 $SmtpServer = "cas.domain.com"
 
-$SmtpPort = "25"
+$SmtpPort = "Your smtp port"
  
 # Message stuff
 
