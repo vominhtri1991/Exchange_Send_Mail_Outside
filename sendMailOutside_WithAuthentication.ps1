@@ -1,5 +1,6 @@
 #By vmt1991
 #Tool used for send mail with authentication with Exchange account to outside mail
+#More tool at My Blog: http://vmt1991.pythonanywhere.com/
 
 
 
